@@ -1,4 +1,4 @@
-# Registration Form UI
+# interactive-login-form
 A simple, user-friendly registration form designed to practice HTML form elements and CSS styling.
 
 ### 🛠 Features:
